@@ -1,0 +1,1 @@
+Rain_Attenuation(10,4.8,'Vertical',47.8*pi/180,35786)
